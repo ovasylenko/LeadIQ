@@ -1,0 +1,14 @@
+.status.red {
+    border-radius:50%;
+
+    width: 20px;
+    height: 20px;
+    background: red;
+}
+
+.status.green {
+    border-radius:50%;
+    width: 20px;
+    height: 20px;
+    background: green;
+}

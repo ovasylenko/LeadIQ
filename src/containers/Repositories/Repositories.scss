@@ -1,0 +1,37 @@
+.fixedHeader{
+  position: fixed;
+  top:0px;
+  font-size:2em;
+  height:3em;
+  background:white;
+  width:100%;
+} 
+
+.main{
+  margin-top: 6em;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.right {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100%;
+}
+
+.left {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.readme { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
